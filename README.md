@@ -33,3 +33,7 @@ In total, interactions between these classes create a positive feedback loop, fu
 
 ## Reference
 
+ - [Participants](overview/Participants.md)
+ - [Smart Contracts](overview/SmartContracts.md)
+
+
