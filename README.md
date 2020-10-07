@@ -10,9 +10,13 @@ Chipswap is a Uniswap-based DEX that is designed to accelerate the influencer ec
 
 Chipswap is an automated liquidity protocol powered by a constant product formula and implemented in a system of non-upgradeable smart contracts on the Binance Smart Chain. It obviates the need for trusted intermediaries, prioritizing decentralization, censorship resistance, and security.
 
+![BNB to Chip](assets/swap1.jpg)
+
 Each Chipswap smart contract, or pair, manages a liquidity pool made up of reserves of two BEP20 tokens.
 
 Anyone can become a liquidity provider for a pool by depositing an equivalent value of each underlying token in return for pool tokens. These tokens track pro-rata LP shares of the total reserves, and can be redeemed for the underlying assets at any time.
+
+![Liquidity provider](assets/swap2.jpg)
 
 ## Pricing
 
