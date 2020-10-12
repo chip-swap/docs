@@ -3,6 +3,7 @@
 Chipswap is a binary smart contract system. Core contracts provide fundamental safety guarantees for all parties interacting with Chipswap. Periphery contracts interact with one or more core contracts but are not themselves part of the core.
 
 *This document was written when the product was still under development.*
+*There is a possibility of changing to Ethereum.*
 
 ## Core
 

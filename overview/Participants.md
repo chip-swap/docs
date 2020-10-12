@@ -4,6 +4,8 @@ The Chipswap ecosystem is primarily comprised of four types of users: fans, liqu
 
 In total, interactions between these classes create a positive feedback loop, fueling digital economies by defining a common language through which tokens can be pooled, traded and used.
 
+*There is a possibility of changing to Ethereum.*
+
 ## Fans
 
 Fans trade tokens as part of their efforts to support influencers. Liquidity providers are incentivized to contribute BEP20 tokens to common liquidity pools. 

@@ -6,6 +6,9 @@ Chipswap is a Uniswap-based DEX that is designed to accelerate the influencer ec
 
 ![About](assets/about.png)
 
+*This document was written when the product was still under development.*
+*There is a possibility of changing to Ethereum.*
+
 ## Introduction
 
 It was surprising that Uniswap and Sushiswap revolutionized decentralized finance and automated market making, surpassing Coinbase in daily trading volumes in early September.
