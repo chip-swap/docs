@@ -15,7 +15,6 @@ All gas fee hit record highs.
 This makes it nearly impossible for ordinary traders to participate in ERC20 smart contract-based DeFi applications and governance.
 
 So the DeFi revolution must be sustainable.
-
 Binance said, Sushi is considered an elite food, but hamburgers are for everyone.
 
 So we enter into decentralized finance to expand the influencer's eco-system.
@@ -27,9 +26,7 @@ The purpose of joining the project is to digitize the value of influencers, indi
 The community has governance, yield farming, liquidity mining, and will be deployed in the Binance Smart Chain. Chainlinks and hash graphs can help us.
 
 Tokyo Olympics and Osaka Expo will be held.
-
 After Corona is a digital bubble era, so I hope you will know what is happening in the center of this bubble era.
-
 In order to scale up 141 Project, social tipping and previous projects, there is no way not to get on this DeFi bubble.
 
 We implement the Binance-recommended Uniswap and Sushiswap business models.
@@ -52,7 +49,7 @@ Justin Bieber token and Rafael token will be automatically issued immediately as
 A machine that boosts chip coins and various human coins is a decentralized exchange called chip swap with yield farming and liquidity mining.
 
 First, we will release Chip Coin and Chip Swap Exchange.
-At the same time we list chip coins on the chip swap exchange
+At the same time we list chip coins on the chip swap exchange.
 
 Users can get listed tip coins faster than anywhere else on the tip swap exchange.
 This is because when the price of chip coins is low, we collect investors who want to get chip coins early and sell them when they are high to make a profit.
